@@ -1,6 +1,6 @@
 # Tec-Blog
 
-O desafio consiste na criação de um blog fictício com nome TecBlog, utilizando apenas HTML e CSS.
+O desafio consiste na criação de um blog fictício, com nome TecBlog, contendo as principais notícias sobre tecnologia.
 
 <img src="imgs/tela.png" alt="tec-blog">
 
